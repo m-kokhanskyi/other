@@ -36,3 +36,4 @@ class AreaCalculator
 		return array_sum($area);
 	}
 }
+
